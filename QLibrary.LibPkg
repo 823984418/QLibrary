@@ -1,0 +1,36 @@
+[Design]
+Version=1.0
+
+[Document1]
+DocumentPath=Footprint\Capacitor.PcbLib
+
+[Document2]
+DocumentPath=Footprint\Inductance.PcbLib
+
+[Document3]
+DocumentPath=Footprint\Light Emitting Diode.PcbLib
+
+[Document4]
+DocumentPath=Footprint\Polar Capacitor.PcbLib
+
+[Document5]
+DocumentPath=Footprint\Resistor.PcbLib
+
+[Document6]
+DocumentPath=Footprint\SOD-123.PcbLib
+
+[Document7]
+DocumentPath=Footprint\VSSOP-8.PcbLib
+
+[Document8]
+DocumentPath=Symbol\Resistor.SchLib
+
+[Document9]
+DocumentPath=Symbol\Instrument Amplifier\INA826.SchLib
+
+[Document10]
+DocumentPath=Symbol\Multiplying DAC\DAC8801.SchLib
+
+[Document11]
+DocumentPath=Symbol\Multiplying DAC\DAC8811.SchLib
+
