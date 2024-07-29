@@ -26,38 +26,44 @@ DocumentPath=Footprint\Resistor.PcbLib
 DocumentPath=Footprint\SOD-123.PcbLib
 
 [Document9]
-DocumentPath=Footprint\TSSOP-24.PcbLib
+DocumentPath=Footprint\SOT-23.PcbLib
 
 [Document10]
-DocumentPath=Footprint\VSSOP-8.PcbLib
+DocumentPath=Footprint\TSSOP-24.PcbLib
 
 [Document11]
-DocumentPath=Symbol\Capacitor.SchLib
+DocumentPath=Footprint\VSSOP-8.PcbLib
 
 [Document12]
-DocumentPath=Symbol\Light Emitting Diode.SchLib
+DocumentPath=Symbol\Capacitor.SchLib
 
 [Document13]
-DocumentPath=Symbol\Resistor.SchLib
+DocumentPath=Symbol\Light Emitting Diode.SchLib
 
 [Document14]
-DocumentPath=Symbol\Current DAC\AD5422.SchLib
+DocumentPath=Symbol\Resistor.SchLib
 
 [Document15]
-DocumentPath=Symbol\Instrument Amplifier\INA826.SchLib
+DocumentPath=Symbol\Analog Switch\TS5A3166.SchLib
 
 [Document16]
-DocumentPath=Symbol\Interface IC\TAC9535.SchLib
+DocumentPath=Symbol\Current DAC\AD5422.SchLib
 
 [Document17]
-DocumentPath=Symbol\Microcontroller\SCM402F.SchLib
+DocumentPath=Symbol\Instrument Amplifier\INA826.SchLib
 
 [Document18]
-DocumentPath=Symbol\Multiplying DAC\DAC8801.SchLib
+DocumentPath=Symbol\Interface IC\TAC9535.SchLib
 
 [Document19]
-DocumentPath=Symbol\Multiplying DAC\DAC8811.SchLib
+DocumentPath=Symbol\Microcontroller\SCM402F.SchLib
 
 [Document20]
+DocumentPath=Symbol\Multiplying DAC\DAC8801.SchLib
+
+[Document21]
+DocumentPath=Symbol\Multiplying DAC\DAC8811.SchLib
+
+[Document22]
 DocumentPath=Symbol\Operational Amplifier\OPA2192.SchLib
 
