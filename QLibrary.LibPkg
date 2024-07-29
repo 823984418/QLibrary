@@ -35,26 +35,29 @@ DocumentPath=Footprint\VSSOP-8.PcbLib
 DocumentPath=Symbol\Capacitor.SchLib
 
 [Document12]
-DocumentPath=Symbol\Resistor.SchLib
+DocumentPath=Symbol\Light Emitting Diode.SchLib
 
 [Document13]
-DocumentPath=Symbol\Current DAC\AD5422.SchLib
+DocumentPath=Symbol\Resistor.SchLib
 
 [Document14]
-DocumentPath=Symbol\Instrument Amplifier\INA826.SchLib
+DocumentPath=Symbol\Current DAC\AD5422.SchLib
 
 [Document15]
-DocumentPath=Symbol\Interface IC\TAC9535.SchLib
+DocumentPath=Symbol\Instrument Amplifier\INA826.SchLib
 
 [Document16]
-DocumentPath=Symbol\Microcontroller\SCM402F.SchLib
+DocumentPath=Symbol\Interface IC\TAC9535.SchLib
 
 [Document17]
-DocumentPath=Symbol\Multiplying DAC\DAC8801.SchLib
+DocumentPath=Symbol\Microcontroller\SCM402F.SchLib
 
 [Document18]
-DocumentPath=Symbol\Multiplying DAC\DAC8811.SchLib
+DocumentPath=Symbol\Multiplying DAC\DAC8801.SchLib
 
 [Document19]
+DocumentPath=Symbol\Multiplying DAC\DAC8811.SchLib
+
+[Document20]
 DocumentPath=Symbol\Operational Amplifier\OPA2192.SchLib
 
